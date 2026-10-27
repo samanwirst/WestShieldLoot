@@ -1,0 +1,13 @@
+/build/
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+.env
+.env.*
+/server/
+/fixtures/
+*.pem

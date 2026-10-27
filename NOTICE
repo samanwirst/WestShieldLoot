@@ -1,0 +1,15 @@
+WestShieldLoot
+Copyright (C) 2026 Samandar Mukhammadiev and WestShield contributors
+SPDX-License-Identifier: GPL-3.0-only
+
+Original WestShield code extracted from the server-adapters repository:
+https://github.com/samanwirst/westshield-simpleclans
+Source checkpoint: a7332f3cbe30f2ba251cf6de06ab645c3cfa4390
+
+The production Java sources and resource files are unchanged by this extraction.
+Standalone build/test entry points and documentation are supplied in this repo.
+The Minecraft protocol test client also originates from that repository.
+
+Minecraft, Purpur, Paper, AuthMe, Geyser, Floodgate, SQLite JDBC and SLF4J are
+independent projects with their own licenses. No server binary, authentication
+plugin or database driver is bundled in the WestShieldLoot release JAR.
